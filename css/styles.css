@@ -2,11 +2,12 @@
 <h1>
 <section>
 {
-    <WEB>
+    <WEB
     font-weight: Raleway;
-    colour: black
+    colour: blue;
     font-size: 18;
     font-weight: 800;
+</WEB>
 }
 </h1>
 </section>
