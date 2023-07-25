@@ -1,4 +1,4 @@
-h1
+h1<WEB
 {
     font-family: Raleway;
     font-size: 18;
@@ -9,4 +9,9 @@ h1
 font-family: Roboto;
     font-size: 16;
     font-weight: 500;
+}
+h3 {
+    font-family: Roboto;
+        font-size: 16;
+        font-weight: 400;
 }
