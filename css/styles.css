@@ -1,9 +1,15 @@
 h1
 {
+    .web
     font-family: Raleway;
     color: iris;
     font-size: 18;
     font-weight: 800;
+    .studio
+    font-family: Raleway;
+        color: navyblue;
+        font-size: 18;
+        font-weight: 800;
     }
 h2
 {
