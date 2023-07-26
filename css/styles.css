@@ -20,7 +20,8 @@ font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 150% 
+    line-height: 150%;
+    color: var(--navyblue, #2E2F42);
 }
 h3 
 {
