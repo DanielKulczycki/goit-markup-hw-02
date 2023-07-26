@@ -12,7 +12,7 @@ font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
     line-height: 150%;
-    color: var(--navyblue, #2E2F42);
+    color: var(--black, #2E2F42);
 }
 .adress 
 {
