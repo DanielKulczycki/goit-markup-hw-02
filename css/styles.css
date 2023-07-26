@@ -5,27 +5,33 @@ h1
     color: iris;
     font-size: 18;
     font-weight: 800;
+    line-height: 116.667%;
 }
     .studio
 {    font-family: Raleway;
         color: navyblue;
         font-size: 18;
         font-weight: 800;
+        line-height: 116.667%;
     }
 h2
 {
+    line-height: 150%
 font-family: Roboto;
+color: navyblue;
     font-size: 16;
     font-weight: 500;
 }
 h3 
 {
+    line-height: 150%
     font-family: Roboto;
         font-size: 16;
         font-weight: 400;
 }
 h4
 {
+    line-height: 150%
 font-family: Roboto;
 color: iris
     font-size: 16;
