@@ -1,19 +1,13 @@
 h1
 {
-    .web
+    .link
     font-family: Raleway;
     color: var(--iris, #4D5AE5);
     font-size: 18;
     font-weight: 800;
     line-height: 116.667%;
-    .studio
-    font-family: Raleway;
-        color: var(--navyblue, #2E2F42);
-        font-size: 18;
-        font-weight: 800;
-        line-height: 116.667%;
     }
-h2
+.menu
 {
 font-family: Roboto;
     font-size: 16px;
