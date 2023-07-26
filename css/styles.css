@@ -4,6 +4,7 @@ h1<WEB
     color: iris;
     font-size: 18;
     font-weight: 800;
+    text-decoration: none;
 }
 h1<STUDIO
 {
@@ -11,6 +12,7 @@ font-family: Raleway;
 color: navyblue; 
 font-size: 18;
 font-weight: 800;
+text-decoration: none;
 }
     h2
 {
