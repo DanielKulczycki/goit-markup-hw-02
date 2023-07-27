@@ -1,18 +1,20 @@
-h1 
+ .web-color
 {
-    color: black
-    font-family: Raleway;
-    font-size: 18;
-    font-weight: 800;
-    line-height: 116.667%;
+    color: var(--iris, #4D5AE5);
+        font-family: Raleway;
+        font-style: bold;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 31px;
     }
-.menu
+.studio 
 {
-font-family: Roboto;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 150%;
-    color: black;
+color: var(--navyblue, #2E2F42);
+font-family: Raleway;
+    font-style: bold;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
 }
 .adress 
 {
@@ -21,18 +23,6 @@ font-family: Roboto;
         font-size: 16;
         font-weight: 400;
 }
-h4
-{
-    line-height: 150%
-font-family: Roboto;
-color: iris
-    font-size: 16;
-    font-weight: 500;
-}
 a {
     text-decoration: none;
-}
-.web-color
-{
-
 }
