@@ -42,12 +42,12 @@ color: red
 a {
     text-decoration: none;
         }
+.filter-button {
+    cursor: pointer;
+}
 .filter-button:hover 
  {
 color: red
-}
-.filter-button {
-    cursor: pointer;
 }
 h2 {
     color: var(--navyblue, #2E2F42);
@@ -66,5 +66,10 @@ h2 {
         line-height: 24px;
 }
 body {
-    font-family: Roboto
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+:root {
+    --brand-color: #434455
 }
