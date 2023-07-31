@@ -75,3 +75,7 @@ body {
 :root {
     --brand-color: #434455;
 }
+element.style {
+list-style: none;
+
+}
