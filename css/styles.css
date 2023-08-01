@@ -64,7 +64,7 @@ h2 {
 }
 body {
     font-family: "Roboto", sans-serif;
-    color: var#434455;
+    color: var(--brand-color);
     background-color: var#FFFFFF;
     font-style: normal;
     font-weight: 400;
