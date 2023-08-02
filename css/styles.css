@@ -65,11 +65,14 @@ h2 {
 body {
     font-family: "Roboto", sans-serif;
     color: var(--brand-color);
-    background-color: var#FFFFFF;
+    background-color: #FFFFFF;
     font-style: normal;
     font-weight: 400;
 }
 :root {
     --brand-color: #434455;
+}
+ul {
+    list-style: none;
 }
 
