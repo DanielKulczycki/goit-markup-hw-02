@@ -24,7 +24,7 @@ color: var(--navyblue, #2E2F42);
 .adress .link:hover {
     color: red
 }
-.menu {
+.nav-link {
 color: var(--navyblue, #2E2F42);
 font-family: Roboto;
     font-size: 16px;
@@ -32,6 +32,9 @@ font-family: Roboto;
     font-weight: 500;
     line-height: 24px;
     list-style: none;
+}
+.nav-link:hover {
+color: var(--ocean, #404BBF);
 }
 .menu .link:hover {
 color: red
