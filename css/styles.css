@@ -11,18 +11,24 @@
 {
 color: var(--navyblue, #2E2F42);
 }
-.menu .link {
-    color: var(--navyblue, #2E2F42);
+.menu {
+color: var(--navyblue, #2E2F42);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+.adress {
+    color: var(--slate, #434455);
         font-family: Roboto;
         font-size: 16px;
-        font-style: normal;
-        font-weight: 500;
+        font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.32px;
+        text-decoration: none;
 }
-.menu .link:hover {
-    color: red;
-}
+
 a {
     text-decoration: none;
         }
