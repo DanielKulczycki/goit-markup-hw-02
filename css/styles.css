@@ -11,7 +11,7 @@
 {
 color: var(--navyblue, #2E2F42);
 }
-.menu {
+.menu .link {
 color: var(--navyblue, #2E2F42);
     font-family: Roboto;
     font-size: 16px;
@@ -19,7 +19,7 @@ color: var(--navyblue, #2E2F42);
     line-height: 24px;
     letter-spacing: 0.32px;
 }
-.adress {
+.adress .link {
     color: var(--slate, #434455);
         font-family: Roboto;
         font-size: 16px;
@@ -28,10 +28,10 @@ color: var(--navyblue, #2E2F42);
         letter-spacing: 0.32px;
         text-decoration: none;
 }
-menu:hover {
+.menu .link:hover {
     color: red;
 }
-.adress:hover {
+.adress .link:hover {
     color: red;
 }
 a {
