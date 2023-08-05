@@ -28,7 +28,12 @@ color: var(--navyblue, #2E2F42);
         letter-spacing: 0.32px;
         text-decoration: none;
 }
-
+menu:hover {
+    color: red;
+}
+.adress:hover {
+    color: red;
+}
 a {
     text-decoration: none;
         }
